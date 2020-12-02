@@ -1,7 +1,10 @@
 # AdvGameDev_Bottlefield
 Game: Bottlefield 
+
 Author: Siim Soonsein 
+
 Digital Learning Games MA curriculum, Tallinn University 
+
 Release date: 1 Dec of 2020
 
 This is a demo for showing off my skills in game development. Main purpose is to show the implementation of:
