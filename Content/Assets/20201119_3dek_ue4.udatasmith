@@ -1,0 +1,243 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>4.25.3</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="Version Unknown"/>
+	<User ID="50f068664980cb012582f0900782f259" OS="Windows 10 (Release 1909)"/>
+	<StaticMesh name="M7a03bac2692f8d17e2cda1b0721ffd0e_1" label="SketchUp_Model">
+		<file path="20201119_3dek_ue4_Assets/M7a03bac2692f8d17e2cda1b0721ffd0e_1.udsmesh"/>
+		<Size a="38844928.0" x="3784.799805" y="1941.046875" z="1181.800049"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e3b2282be63e61066507b2b156bef56a"/>
+		<Material id="52" name="Color_B07-G251aebad618da297677447c03dee63a3"/>
+		<Material id="68" name="office-hallway-with-elevator-screen-billboard_1441-3961-Lb388bf4bf2d68f2c7e352cccd122d6da"/>
+		<Material id="70" name="Color_M00-Gcb207e1af4392fea3d9d1b88a42bdf5a"/>
+		<Material id="78" name="Wood_Veneer_02_1-La189e26ec5bcc405881c05d3ac4b14e6"/>
+		<Material id="77" name="Translucent_Glass_Gray-G2e0e46024c0f1b5f5d0496be65a84811"/>
+		<Material id="55" name="Color_L05-G64f7d897f94ca49ded7d38283b20a319"/>
+		<Material id="53" name="Color_G06-Gc2f34cf4c0d9158bbcd566bfaa38525e"/>
+		<Material id="80" name="Wood_Floor-Le57d7825e12cddf7511a91f3cf5f7231"/>
+		<Material id="82" name="Tile_Limestone_Large-L842aea5eb54d0aa7484a5e2bf85107ff"/>
+	</StaticMesh>
+	<ActorMesh name="SU_1" label="Model" layer="Layer0">
+		<mesh name="M7a03bac2692f8d17e2cda1b0721ffd0e_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.MODEL" />
+		<tag value="SU.PATH.0" />
+	</ActorMesh>
+	<Camera name="Scene_1" label="Scene_1">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_3" label="Scene_3">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_6" label="Scene_6">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_7" label="Scene_7">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_8" label="Scene_8">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_9" label="Scene_9">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_4" label="Scene_4">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_5" label="Scene_5">
+		<Transform tx="-3241.801758" ty="-12309.750977" tz="8819.975586" sx="1.0" sy="1.0" sz="1.0" qx="-0.146079" qy="0.300569" qz="0.411986" qw="0.847695" qhex="BC9515BE34E4993EDFEFD23E8702593F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.439453"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_10" label="Scene_10">
+		<Transform tx="-1933.27356" ty="-6309.628418" tz="1854.928101" sx="1.0" sy="1.0" sz="1.0" qx="-0.049099" qy="0.111713" qz="0.399352" qw="0.90864" qhex="8F1B49BDDEC9E43DE677CC3EA89C683F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.4375"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_11" label="Scene_11">
+		<Transform tx="-1933.27356" ty="-6309.628418" tz="1854.928101" sx="1.0" sy="1.0" sz="1.0" qx="-0.049099" qy="0.111713" qz="0.399352" qw="0.90864" qhex="8F1B49BDDEC9E43DE677CC3EA89C683F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.4375"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_12" label="Scene_12">
+		<Transform tx="-2933.478027" ty="-7229.775391" tz="2191.537842" sx="1.0" sy="1.0" sz="1.0" qx="-0.049099" qy="0.111713" qz="0.399352" qw="0.90864" qhex="8F1B49BDDEC9E43DE677CC3EA89C683F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.4375"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_13" label="Scene_13">
+		<Transform tx="-2933.478027" ty="-7229.775391" tz="2191.537842" sx="1.0" sy="1.0" sz="1.0" qx="-0.049099" qy="0.111713" qz="0.399352" qw="0.90864" qhex="8F1B49BDDEC9E43DE677CC3EA89C683F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.4375"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Camera name="Scene_2" label="Scene_2">
+		<Transform tx="3279.875977" ty="-1322.175049" tz="240.539032" sx="1.0" sy="1.0" sz="1.0" qx="-0.048847" qy="0.047184" qz="0.717586" qw="0.693151" qhex="3D1448BD2544413DB1B3373F5A72313F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="18103.4375"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Texture name="office-hallway-with-elevator-screen-billboard_1441-3961" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="20201119_3dek_ue4_Assets/office-hallway-with-elevator-screen-billboard_1441-3961.jpg">
+		<Hash value="60ee962559460efdddf1935ea292ec78"/>
+	</Texture>
+	<Texture name="Wood_02" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="20201119_3dek_ue4_Assets/Wood_02.jpg">
+		<Hash value="e625f8485486dd989e3d00c7031d97ad"/>
+	</Texture>
+	<Texture name="Wood_Floor" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="20201119_3dek_ue4_Assets/Wood_Floor.jpg">
+		<Hash value="c62c86ba0027a51bebe9d5396074fd1d"/>
+	</Texture>
+	<Texture name="Tile_Limestone_Large" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="20201119_3dek_ue4_Assets/Tile_Limestone_Large.jpg">
+		<Hash value="a438e0d9d7d4b8d22bfa743844553a7b"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_B07-G251aebad618da297677447c03dee63a3"  label="Color_B07" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.318547,G=0.019382,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_G06-Gc2f34cf4c0d9158bbcd566bfaa38525e"  label="Color_G06" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.603827,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_L05-G64f7d897f94ca49ded7d38283b20a319"  label="Color_L05" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.000000,B=0.212231,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="office-hallway-with-elevator-screen-billboard_1441-3961-Lb388bf4bf2d68f2c7e352cccd122d6da"  label="office-hallway-with-elevator-screen-billboard_1441-3961" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.371238,G=0.351533,B=0.323143,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="office-hallway-with-elevator-screen-billboard_1441-3961.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_M00-Gcb207e1af4392fea3d9d1b88a42bdf5a"  label="Color_M00" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Translucent_Glass_Gray-G2e0e46024c0f1b5f5d0496be65a84811"  label="Translucent_Glass_Gray" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=0.501961)"/>
+		<KeyValueProperty name="Opacity" type="Float" val="0.501961"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Veneer_02_1-La189e26ec5bcc405881c05d3ac4b14e6"  label="Wood_Veneer_02_1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.514918,G=0.215861,B=0.104616,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_02.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Floor-Le57d7825e12cddf7511a91f3cf5f7231"  label="Wood_Floor" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.327778,G=0.141263,B=0.046665,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_Floor.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Tile_Limestone_Large-L842aea5eb54d0aa7484a5e2bf85107ff"  label="Tile_Limestone_Large" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.854993,G=0.964686,B=0.791298,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Tile_Limestone_Large.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
